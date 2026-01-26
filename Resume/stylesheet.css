@@ -1,8 +1,30 @@
 p {
-    font-family: sans-serif;
-    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: justify;
 }
 
-h1 {
+h1, h2{
+    text-align: center;
     color: pink
+}
+
+h3, h4, h5 {
+    text-align: center;
+}
+
+ul {
+    font-family: 'Courier New', Courier, monospace;
+    color: black
+}
+
+blockquote {
+    border-style: double;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
 }
