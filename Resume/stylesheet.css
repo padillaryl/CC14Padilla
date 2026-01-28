@@ -1,30 +1,56 @@
 p {
     font-family: 'Times New Roman', Times, serif;
-    color: black;
+    color: white;
     text-align: justify;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
 }
 
 h1, h2{
     text-align: center;
-    color: pink
+    color: deeppink;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
 }
 
 h3, h4, h5 {
     text-align: center;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
 }
 
-ul {
+ul, a {
     font-family: 'Courier New', Courier, monospace;
-    color: black
+    color: white;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
 }
 
 blockquote {
     border-style: double;
+    color: white;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
 }
 
 img {
     display: block;
+
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
+    width: 30%;
+}
+
+body {
+    background-color: black;
 }
