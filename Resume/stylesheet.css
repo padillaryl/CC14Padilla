@@ -81,3 +81,16 @@ body {
     font-size: 15px;
     color: white;
 }
+
+.indexcon {
+    background: url("..\imgs\intro-background.png") no-repeat center;
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    height: 500px;
+    border: 1px solid red;
+}
+
+.indexcon h3 {
+    text-align: center;
+}
